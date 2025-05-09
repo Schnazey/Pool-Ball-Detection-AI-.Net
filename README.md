@@ -1,8 +1,7 @@
 # Pool Ball Detection AI .Net
 
-My goal is to make this as generic as possible so it can handle any type of AI interations, whether it be images, files, or even a small chatbot.
+This is a work in progress. My goal is to make this as generic as possible so it can handle any type of AI interations, whether it be images, files, or even a small chatbot.
 
-This is a work in progress and is the result of 9 hours of work, be kind.
 My video card is ancient, but still gives me 8 fps with this software.
 
 My Hardware:
@@ -10,7 +9,6 @@ My Hardware:
 	CPU - Intel I5 14600 Air Cooled
 	Ram - 32gb
 	
-
 These are the steps I took to setup my environemnt.  
 
 Environment Setup
